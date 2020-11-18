@@ -1,4 +1,4 @@
 # learn-python
 My journal of learning data science
 
-these excercise file were from springer book
+these excercise files were from various books
